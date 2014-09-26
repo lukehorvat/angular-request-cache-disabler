@@ -1,6 +1,6 @@
 {
   "name": "angular-request-cache-disabler",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/lukehorvat/angular-request-cache-disabler",
   "authors": [
     "Luke Horvat <lukehorvat@gmail.com>"
