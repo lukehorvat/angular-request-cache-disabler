@@ -10,7 +10,7 @@ Install with Bower:
 $ bower install angular-cache-disabler
 ```
 
-And then add it to any Angular module's list of dependencies. Example:
+And add it to an Angular module's dependency list:
 
 ```coffeescript
 angular.module("app", ["ngCacheDisabler"])
