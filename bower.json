@@ -1,7 +1,7 @@
 {
-  "name": "angular-cache-disabler",
+  "name": "angular-request-cache-disabler",
   "version": "0.0.0",
-  "homepage": "https://github.com/lukehorvat/angular-cache-disabler",
+  "homepage": "https://github.com/lukehorvat/angular-request-cache-disabler",
   "authors": [
     "Luke Horvat <lukehorvat@gmail.com>"
   ],
@@ -11,15 +11,15 @@
     "cache",
     "http",
     "ajax",
-    "bust",
     "request",
+    "bust",
     "internet",
     "explorer",
     "ie8",
     "ie9"
   ],
   "license": "MIT",
-  "main": "./dist/angular-cache-disabler.js",
+  "main": "./dist/angular-request-cache-disabler.js",
   "dependencies": {
     "angular": ">= 1.2"
   },

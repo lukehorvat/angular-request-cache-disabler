@@ -7,7 +7,7 @@ rimraf = require "rimraf"
 size = require "gulp-size"
 uglify = require "gulp-uglify"
 watch = require "gulp-watch"
-script = "src/angular-cache-disabler.coffee"
+script = "src/angular-request-cache-disabler.coffee"
 buildDir = "dist"
 
 gulp.task "clean", (done) ->
