@@ -5,11 +5,12 @@
   "authors": [
     "Luke Horvat <lukehorvat@gmail.com>"
   ],
-  "description": "An HTTP request cache disabler for AngularJS.",
+  "description": "HTTP request cache disabler for AngularJS.",
   "keywords": [
     "angular",
     "cache",
-    "http"
+    "http",
+    "ajax"
   ],
   "license": "MIT",
   "main": "./dist/angular-cache-disabler.js",
