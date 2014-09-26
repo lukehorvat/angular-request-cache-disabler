@@ -10,7 +10,13 @@
     "angular",
     "cache",
     "http",
-    "ajax"
+    "ajax",
+    "bust",
+    "request",
+    "internet",
+    "explorer",
+    "ie8",
+    "ie9"
   ],
   "license": "MIT",
   "main": "./dist/angular-cache-disabler.js",

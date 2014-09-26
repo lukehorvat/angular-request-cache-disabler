@@ -29,6 +29,12 @@
     "angular",
     "cache",
     "http",
-    "ajax"
+    "ajax",
+    "bust",
+    "request",
+    "internet",
+    "explorer",
+    "ie8",
+    "ie9"
   ]
 }
