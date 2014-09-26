@@ -1,0 +1,25 @@
+{
+  "name": "angular-cache-disabler",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lukehorvat/angular-cache-disabler",
+  "authors": [
+    "Luke Horvat <lukehorvat@gmail.com>"
+  ],
+  "description": "An HTTP request cache disabler for AngularJS.",
+  "keywords": [
+    "angular",
+    "cache",
+    "http"
+  ],
+  "license": "MIT",
+  "main": "./dist/angular-cache-disabler.js",
+  "dependencies": {
+    "angular": ">= 1.2"
+  },
+  "devDependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
