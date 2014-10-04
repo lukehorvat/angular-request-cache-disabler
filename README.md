@@ -1,4 +1,4 @@
-# angular-request-cache-disabler [![Bower version](https://badge.fury.io/bo/angular-request-cache-disabler.svg)](https://github.com/lukehorvat/angular-request-cache-disabler/releases)
+# angular-request-cache-disabler [![Bower version](http://img.shields.io/bower/v/angular-request-cache-disabler.svg?style=flat-square)](https://github.com/lukehorvat/angular-request-cache-disabler/releases)
 
 A module for AngularJS that disables HTTP request caching by appending a "random" value to the URL query string. Necessary for old web browsers that aggressively cache AJAX requests (e.g. Internet Explorer 8).
 
